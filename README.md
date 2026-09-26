@@ -5,9 +5,9 @@ This is a standalone, dependency-free static site for BloatMonster's Privacy Pol
 - `/privacy/`
 - `/terms/`
 
-## Draft status
+## Publication status
 
-The pages are **not ready to publish**. Replace `[OPERATOR_NAME]`, `[CONTACT_EMAIL]`, and `[EFFECTIVE_DATE]` with confirmed details. Review the data-processing statements against the release build and RevenueCat configuration. Then remove the visible draft labels and `noindex` metadata from all pages.
+The bilingual pages identify yanhao wu as the operator and BloatMonster@163.com as the contact address. The last-updated date is 2026-09-26. Before using the URLs in the app or App Store Connect, verify the live GitHub Pages deployment, review the release build and RevenueCat configuration against the policy, and confirm the App Store privacy questionnaire discloses purchase history.
 
 ## Publish with GitHub Pages
 

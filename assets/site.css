@@ -91,17 +91,6 @@ a:focus-visible {
 .document-link:hover { border-color: var(--accent); }
 .document-link span[lang] { color: var(--muted); }
 .legal-main { padding-block: 44px 88px; }
-.document-intro { margin-bottom: 30px; }
-.document-intro h1 {
-  margin: 15px 0 8px;
-  font-size: clamp(2.15rem, 6vw, 3.5rem);
-  line-height: 1.18;
-  letter-spacing: -0.04em;
-}
-.document-intro > p {
-  margin: 5px 0;
-  color: var(--muted);
-}
 .language-nav {
   margin-top: 22px;
   padding-bottom: 20px;
